@@ -1,0 +1,38 @@
+{
+    "LLM": [
+        {
+            "name": "DeepSeek-R1-Distill-Qwen-7B",
+            "model_version": "v1.0",
+            "ddk_version": "v1.0",
+            "download": "https://modelers.cn/coderepo/web/v1/file/HarmonyAI/Test/main/media/DeepSeek-R1-Distill-Qwen-7B-OMC-20250523.zip",
+            "modified_at": "2025-06-10T19:56:36.437057000+00:00",
+            "owned_by": "Huawei",
+            "size": 3532226119,
+            "digest": "58f2a8a7d7e8a80ff54fa6f0fe6c9df7389af018440e7a6898136b3c71ca5ffb",
+            "details": {
+                "format": "omc",
+                "family": "qwen2",
+                "families": "qwen",
+                "parameter_size": "7B",
+                "quantization_level": "Q4_0"
+            }
+        },
+        {
+            "name": "Qwen25-7B-Instruct",
+            "model_version": "v1.0",
+            "ddk_version": "v1.0",
+            "download": "https://modelers.cn/coderepo/web/v1/file/HarmonyAI/Test/main/media/Qwen25-7B-OMC.zip",
+            "modified_at": "2025-06-10T19:56:36.437057000+00:00",
+            "owned_by": "Huawei",
+            "size": 3658939664,
+            "digest": "f07ca92cc4d983a7fab0203496c6edf8d3afd343a931f8ed954a1f1c306051a0",
+            "details": {
+                "format": "omc",
+                "family": "qwen2",
+                "families": "qwen",
+                "parameter_size": "7B",
+                "quantization_level": "Q4_0"
+            }
+        }
+    ]
+}
